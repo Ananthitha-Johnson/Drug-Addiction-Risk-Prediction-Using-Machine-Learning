@@ -48,7 +48,7 @@ Target Variable:
   - Model training and evaluation workflow
   - Feature–target relationship learning
 
-⚠️ **Note:** High accuracy does not imply real-world performance and is used here strictly for educational demonstration.
+**Note:** High accuracy does not imply real-world performance and is used here strictly for educational demonstration.
 
 ---
 ## Output
